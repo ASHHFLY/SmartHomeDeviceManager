@@ -1,0 +1,5 @@
+cd C:\Users\rajas\OneDrive\Desktop\smart_device_manager\smartDevice\src\main\java\org\raj\smartHomeDeviceManager\smartDevice\
+javac -cp c:\Users\rajas\.m2\repository\org\eclipse\paho\org.eclipse.paho.client.mqttv3\1.2.4\org.eclipse.paho.client.mqttv3-1.2.4.jar;c:\Users\rajas\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;. -d . Simulator.java
+java -cp c:\Users\rajas\.m2\repository\org\eclipse\paho\org.eclipse.paho.client.mqttv3\1.2.4\org.eclipse.paho.client.mqttv3-1.2.4.jar;c:\Users\rajas\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;. org.raj.smartHomeDeviceManager.smartDevice.Simulator
+C:\Users\rajas\OneDrive\Desktop\smart_device_manager\smartDevice\src\main\java\org\raj\smartHomeDeviceManager\smartDevice\
+java -cp c:\Users\rajas\.m2\repository\org\eclipse\paho\org.eclipse.paho.client.mqttv3\1.2.4\org.eclipse.paho.client.mqttv3-1.2.4.jar;c:\Users\rajas\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\rajas\OneDrive\Desktop\smart_device_manager\smartDevice\src\main\java\org\raj\smartHomeDeviceManager\smartDevice\ org.raj.smartHomeDeviceManager.smartDevice.Simulator
